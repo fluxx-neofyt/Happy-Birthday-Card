@@ -1,7 +1,7 @@
 {
-  "name": "happy-birthday-card",
+  "name": "Rishika-Birthday-Card",
   "version": "3.0.2",
-  "description": "A birthday card template",
+  "description": "birthday card template",
   "main": "index.js",
   "default": "index.html",
   "targets": {
@@ -18,18 +18,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnshumanMahato/Happy-Birthday-Card.git"
+    "url": ""
   },
   "keywords": [
     "happy-birthday",
     "birthday-card"
   ],
-  "author": "Anshuman Mahato",
+  "author": "Raj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnshumanMahato/Happy-Birthday-Card/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/AnshumanMahato/Happy-Birthday-Card#readme",
+  "homepage": "",
   "devDependencies": {
     "@parcel/packager-raw-url": "^2.6.2",
     "@parcel/transformer-sass": "^2.6.2",
